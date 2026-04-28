@@ -27,7 +27,7 @@ The analysis uses anonymized survey data to explore relationships between:
 
 To begin, I examined how students rated the effectiveness of lesson videos.
 
-![Video Effectiveness Distribution](/workspace/exercises/ex09/plot1.png)
+![Video Effectiveness Distribution]({{ site.baseurl }}/static/imgs/plot1.png)
 
 The distribution shows that most students rate lesson videos positively, with responses concentrated toward the higher end of the scale.
 
@@ -35,7 +35,7 @@ The distribution shows that most students rate lesson videos positively, with re
 
 Next, I analyzed the relationship between video effectiveness and student understanding using a heatmap to better capture density in discrete data.
 
-![Heatmap](/workspace/exercises/ex09/plot1.png)
+![Heatmap]({{ site.baseurl }}/static/imgs/plot2.png)
 
 This visualization shows that higher video effectiveness ratings tend to align with higher reported understanding. However, the relationship is not perfectly linear and shows variability.
 
@@ -43,7 +43,7 @@ This visualization shows that higher video effectiveness ratings tend to align w
 
 Finally, I examined how perceived course value varies with video effectiveness using a boxplot.
 
-![Boxplot](/workspace/exercises/ex09/plot1.png)
+![Boxplot]({{ site.baseurl }}/static/imgs/plot3.png)
 
 Students who rate videos as more effective also tend to report higher course value, suggesting a positive association between video resources and perceived learning outcomes.
 
