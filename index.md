@@ -14,7 +14,7 @@ layout: default
 
 ## Overview
 
-This project analyzes whether increasing video-based resources—specifically walkthroughs of common mistakes—would improve student learning in COMP110.
+This project analyzes whether increasing video-based resources, specifically walkthroughs of common mistakes, would improve student learning in COMP110.
 
 The analysis uses anonymized survey data to explore relationships between:
 - Lesson video effectiveness (`ls_effective`)
@@ -59,7 +59,7 @@ It is unclear whether videos directly improve learning, or if students who are a
 
 ## Recommendations
 
-Rather than immediately expanding video content, a more effective approach would be to:
+Rather than immediately and completely expanding video content, a more effective approach would be to:
 
 - Introduce targeted walkthrough videos for common mistakes on select assignments  
 - Collect data on student engagement with these videos  
@@ -72,8 +72,8 @@ This experimental approach would provide stronger evidence for whether expanding
 ## Trade-offs and Considerations
 
 - Producing additional videos requires time and effort from instructional staff  
-- Over-reliance on videos may reduce engagement with other learning methods  
-- Not all students prefer video-based learning  
+- Over reliance on videos may reduce engagement with other learning methods  
+- Not all students prefer video based learning  
 
 ---
 
