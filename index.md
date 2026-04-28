@@ -3,7 +3,7 @@
 layout: default
 ---
 
-# COMP110 Data Analysis: Video-Based Learning P
+# COMP110 Data Analysis: Video-Based Learning
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="{{ site.baseurl }}/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
@@ -57,7 +57,7 @@ It is unclear whether videos directly improve learning, or if students who are a
 
 ---
 
-## Recommendations
+### Recommendations
 
 Rather than immediately and completely expanding video content, a more effective approach would be to:
 
@@ -69,7 +69,7 @@ This experimental approach would provide stronger evidence for whether expanding
 
 ---
 
-## Trade-offs and Considerations
+### Considerations
 
 - Producing additional videos requires time and effort from instructional staff  
 - Over reliance on videos may reduce engagement with other learning methods  
@@ -77,6 +77,6 @@ This experimental approach would provide stronger evidence for whether expanding
 
 ---
 
-## Final Reflection
+### Final Reflection
 
 While video resources appear valuable, the current data is insufficient to justify expanding them without further testing. A targeted, data driven experiment would be the most effective next step.
