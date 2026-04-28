@@ -22,7 +22,7 @@ title: Video Based Review
 email: jakobyr@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   COMP110 ex09 project on the utility of video based review.
-baseurl: "-exercise09c110" # the subpath of your site, e.g. /blog
+baseurl: "/jako-byr.github.io-exercise09c110" # the subpath of your site, e.g. /blog
 url: "jako-byr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: n/a
 github_username:  jako-byr
